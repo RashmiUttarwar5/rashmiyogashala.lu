@@ -1,0 +1,278 @@
+{
+  "hero": {
+    "title": "Yoga with Rashmi",
+    "subtitle": "500+ hrs Certified Yoga Instructor",
+    "quote": "\"Yoga is the journey of the self, through the self, to the self.\" - Bhagavad Gita",
+    "backgroundImage": "photo/IMG_4837.JPG"
+  },
+  "about": {
+    "title": "About Me",
+    "intro": "Bringing the authentic wisdom of traditional Indian yoga to Luxembourg with passion and dedication.",
+    "cards": [
+      {
+        "title": "My Journey",
+        "content": "Rashmi Uttarwar, a certified Yoga instructor with 500+ hours of traditional training from Pune University. I blend ancient techniques with modern understanding, backed by 3+ years of teaching experience."
+      },
+      {
+        "title": "Teaching Philosophy", 
+        "content": "My approach focuses on gentle precision of proper alignment, transformative power of mindful breathing, and deep relaxation. Each session is a journey inward, nurturing inner peace and balanced lifestyle."
+      }
+    ],
+    "highlights": [
+      {
+        "number": "500+",
+        "text": "Hours Certified Training"
+      },
+      {
+        "number": "3+",
+        "text": "Years Experience"
+      },
+      {
+        "number": "100+",
+        "text": "Happy Students"
+      },
+      {
+        "number": "∞",
+        "text": "Inner Peace"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why Yoga?",
+    "items": [
+      {
+        "title": "Physical Strength",
+        "description": "Builds flexibility and strength, supports a healthier nervous system"
+      },
+      {
+        "title": "Mental Clarity", 
+        "description": "Sharpens concentration and focus, boosts lung capacity through deep breathing"
+      },
+      {
+        "title": "Emotional Balance",
+        "description": "Relieves tension, stress, and anxiety while promoting better sleep"
+      },
+      {
+        "title": "Wellness",
+        "description": "Helps prevent injuries, slows down signs of aging, improves circulation"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      {
+        "title": "Corporate Yoga",
+        "description": "On-site classes and events tailored to your workplace. Utilizing in-house gyms, meeting rooms, or sports zones for employee wellness."
+      },
+      {
+        "title": "Private Sessions",
+        "description": "Online or in-person yoga sessions at home if you are based in Luxembourg. Personalized practice for your needs."
+      },
+      {
+        "title": "Event Hosting",
+        "description": "Add a unique touch with a memorable yoga experience for your special events and gatherings."
+      }
+    ]
+  },
+  "expertise": {
+    "title": "Expertise",
+    "items": [
+      {
+        "title": "Hatha Yoga",
+        "description": "Experience transformative traditional Indian yoga philosophy. Harmonizing breath, movement, and inner awareness through structured practice including micro exercises, dynamic and static asanas, breathing exercises, and yogic sleep."
+      },
+      {
+        "title": "Yin Yoga",
+        "description": "A calming practice combining asanas, pranayama, meditation and tension release exercises. Includes shaking and trembling movements to reconnect with body and emotions, concluded with guided meditation and deep relaxation."
+      },
+      {
+        "title": "Yin & Nidra",
+        "description": "Gentle meditative practice working deep connective tissues. Each pose held for several minutes encouraging introspection. Includes Yoga Nidra - a deeply restful state between wakefulness and sleep achieved through guided meditation."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "images": [
+      {
+        "src": "optimized_images/IMG_4852.jpg",
+        "alt": "Yoga session outdoors",
+        "description": "Peaceful outdoor yoga session in nature"
+      },
+      {
+        "src": "optimized_images/IMG_20250604_120720_980.jpg",
+        "alt": "Group yoga practice",
+        "description": "Community group practicing together"
+      },
+      {
+        "src": "optimized_images/IMG-20250616-WA0009.jpg",
+        "alt": "Meditation pose",
+        "description": "Deep meditation and mindfulness practice"
+      },
+      {
+        "src": "optimized_images/IMG_20250704_145122_586.jpg",
+        "alt": "Yoga studio session",
+        "description": "Indoor studio session with proper alignment"
+      },
+      {
+        "src": "optimized_images/IMG-20250512-WA0041.jpg",
+        "alt": "Private yoga session",
+        "description": "One-on-one personalized yoga instruction"
+      },
+      {
+        "src": "optimized_images/IMG-20250616-WA0001.jpg",
+        "alt": "Yoga practice",
+        "description": "Traditional yoga poses and breathing"
+      },
+      {
+        "src": "optimized_images/IMG_4837.jpg",
+        "alt": "Peaceful yoga moment",
+        "description": "Serene moment of yoga practice"
+      },
+      {
+        "src": "optimized_images/IMG_5884.jpg",
+        "alt": "Yoga instruction",
+        "description": "Rashmi guiding students through poses"
+      },
+      {
+        "src": "optimized_images/IMG-20250616-WA0000.jpg",
+        "alt": "Yoga pose demonstration",
+        "description": "Perfect form and technique demonstration"
+      },
+      {
+        "src": "optimized_images/IMG-20250809-WA0006.jpg",
+        "alt": "Relaxation pose",
+        "description": "Final relaxation and restoration"
+      }
+    ]
+  },
+  "events": {
+    "title": "Events & Workshops",
+    "items": [
+      {
+        "title": "Weekend Yoga Retreat",
+        "date": "2024-12-15",
+        "time": "9:00 AM - 5:00 PM",
+        "location": "Luxembourg Nature Park",
+        "description": "A full day of yoga, meditation, and mindfulness in nature. Perfect for beginners and experienced practitioners.",
+        "price": "€85",
+        "type": "retreat",
+        "isVisible": true
+      },
+      {
+        "title": "Hatha Yoga Workshop",
+        "date": "2024-12-08",
+        "time": "2:00 PM - 4:00 PM", 
+        "location": "Online via Zoom",
+        "description": "Deep dive into traditional Hatha yoga techniques, breathing exercises, and alignment principles.",
+        "price": "€35",
+        "type": "workshop",
+        "isVisible": true
+      },
+      {
+        "title": "Corporate Wellness Session",
+        "date": "2024-12-20",
+        "time": "12:00 PM - 1:00 PM",
+        "location": "Your Office",
+        "description": "Customized yoga session for your team. Reduce stress and improve workplace wellness.",
+        "price": "Contact for pricing",
+        "type": "corporate",
+        "isVisible": true
+      },
+      {
+        "title": "Yin & Nidra Evening",
+        "date": "2024-11-25",
+        "time": "7:00 PM - 8:30 PM",
+        "location": "Yoga Studio Luxembourg",
+        "description": "Relaxing evening session focusing on deep stretches and guided meditation.",
+        "price": "€25",
+        "type": "workshop",
+        "isVisible": true
+      },
+       {
+        "title": "Yin & Nidra Evening",
+        "date": "2024-11-25",
+        "time": "7:00 PM - 8:30 PM",
+        "location": "Yoga Studio Luxembourg",
+        "description": "Relaxing evening session focusing on deep stretches and guided meditation.",
+        "price": "€25",
+        "type": "workshop",
+        "isVisible": true
+      },
+       {
+        "title": "Yin & Nidra Evening",
+        "date": "2024-11-25",
+        "time": "7:00 PM - 8:30 PM",
+        "location": "Yoga Studio Luxembourg",
+        "description": "Relaxing evening session focusing on deep stretches and guided meditation.",
+        "price": "€25",
+        "type": "workshop",
+        "isVisible": true
+      },
+       {
+        "title": "Yin & Nidra Evening",
+        "date": "2024-11-25",
+        "time": "7:00 PM - 8:30 PM",
+        "location": "Yoga Studio Luxembourg",
+        "description": "Relaxing evening session focusing on deep stretches and guided meditation.",
+        "price": "€25",
+        "type": "workshop",
+        "isVisible": true
+      },
+      {
+        "title": "Beginner's Yoga Series",
+        "date": "2024-11-20",
+        "time": "6:00 PM - 7:00 PM",
+        "location": "Community Center",
+        "description": "4-week series perfect for those new to yoga practice.",
+        "price": "€120",
+        "type": "series",
+        "isVisible": false
+      }
+    ]
+  },
+  "social": {
+    "title": "Follow Our Journey",
+    "instagram": {
+      "url": "https://www.instagram.com/yoga_with_rashmi_u/",
+      "handle": "@yoga_with_rashmi_u",
+      "description": "Daily yoga inspiration, tips, and behind-the-scenes moments"
+    }
+  },
+  "testimonials": {
+    "title": "What Students Say",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "text": "Rashmi's classes have transformed my approach to wellness. Her authentic teaching style and deep knowledge of traditional yoga create a truly healing experience.",
+        "rating": 5
+      },
+      {
+        "name": "Michael K.",
+        "text": "The corporate yoga sessions have been amazing for our team. Rashmi brings such calm energy and helps us manage stress effectively.",
+        "rating": 5
+      },
+      {
+        "name": "Emma L.",
+        "text": "I love the Yin & Nidra sessions. Rashmi guides us into such deep relaxation - it's exactly what I needed after busy days.",
+        "rating": 5
+      },
+      {
+        "name": "David R.",
+        "text": "As a beginner, I was nervous about yoga, but Rashmi's gentle approach and clear instructions made me feel comfortable from day one.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact & Booking",
+    "description": "I'm always looking for new and exciting opportunities. Let's connect.",
+    "phone": "+352 691 251 730",
+    "email": "rashmiyogashala@gmail.com",
+    "whatsapp": {
+      "number": "352691251730",
+      "message": "Hi, I'd like to book a yoga session / know more about your programs."
+    }
+  }
+}
