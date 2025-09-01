@@ -154,6 +154,9 @@ function populateEvents() {
     const list = document.getElementById('eventsList');
     const toggleBtn = document.getElementById('eventsToggle');
     
+    // Add structured data for events
+    addEventSchema(visibleEvents);
+    
     let showAll = false;
     const initialCount = 3;
     
@@ -203,6 +206,41 @@ function populateEvents() {
         showAll = !showAll;
         renderEvents();
     });
+}
+
+// Add structured data for events
+function addEventSchema(events) {
+    const eventSchema = {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListElement": events.map((event, index) => ({
+            "@type": "Event",
+            "position": index + 1,
+            "name": event.title,
+            "description": event.description,
+            "startDate": `${event.date}T${event.time.split(' - ')[0]}`,
+            "location": {
+                "@type": "Place",
+                "name": event.location,
+                "address": event.location
+            },
+            "organizer": {
+                "@type": "Person",
+                "name": "Rashmi Uttarwar"
+            },
+            "offers": {
+                "@type": "Offer",
+                "price": event.price.replace('€', ''),
+                "priceCurrency": "EUR",
+                "availability": "https://schema.org/InStock"
+            }
+        }))
+    };
+    
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.textContent = JSON.stringify(eventSchema);
+    document.head.appendChild(script);
 }
 
 // Populate Social Media Section

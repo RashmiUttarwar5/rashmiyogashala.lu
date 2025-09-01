@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yogawithrashmi.com/sitemap.xml
+
+# Disallow unnecessary files
+Disallow: /config.json
+Disallow: /*.js$
+Disallow: /*.css$
