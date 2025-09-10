@@ -156,7 +156,7 @@
         "time": "9:00 AM - 5:00 PM",
         "location": "Luxembourg Nature Park",
         "description": "A full day of yoga, meditation, and mindfulness in nature. Perfect for beginners and experienced practitioners.",
-        "price": "€85",
+        "price": "Contact for pricing",
         "type": "retreat",
         "isVisible": true
       },
@@ -166,7 +166,7 @@
         "time": "2:00 PM - 4:00 PM", 
         "location": "Online via Zoom",
         "description": "Deep dive into traditional Hatha yoga techniques, breathing exercises, and alignment principles.",
-        "price": "€35",
+        "price": "Contact for pricing",
         "type": "workshop",
         "isVisible": true
       },
