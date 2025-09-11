@@ -103,12 +103,12 @@
       {
         "src": "optimized_images/IMG_20250604_120720_980.jpg",
         "alt": "Group yoga practice",
-        "description": "Community group practicing together"
+        "description": "Serene moment of yoga practice"
       },
       {
         "src": "optimized_images/IMG-20250616-WA0009.jpg",
         "alt": "Meditation pose",
-        "description": "Deep meditation and mindfulness practice"
+        "description": "Community group practicing together"
       },
       {
         "src": "optimized_images/IMG_20250704_145122_586.jpg",
@@ -133,7 +133,7 @@
       {
         "src": "optimized_images/IMG_5884.jpg",
         "alt": "Yoga instruction",
-        "description": "Rashmi guiding students through poses"
+        "description": "Deep meditation and mindfulness practice"
       },
       {
         "src": "optimized_images/IMG-20250616-WA0000.jpg",
@@ -151,52 +151,41 @@
     "title": "Events & Workshops",
     "items": [
       {
-        "title": "Weekend Yoga Retreat",
-        "date": "2024-12-15",
-        "time": "9:00 AM - 5:00 PM",
-        "location": "Luxembourg Nature Park",
-        "description": "A full day of yoga, meditation, and mindfulness in nature. Perfect for beginners and experienced practitioners.",
-        "price": "Contact for pricing",
+        "title": "Destress and Relaxation Yoga",
+        "date": "Every Thursday",
+        "time": "18:00 PM - 19:00 PM",
+        "location": "ManaYoga",
+        "description": "This class is a great way to calm down, feel balanced, and ﬁnd inner peace again. It combines asanas (postures), pranayama (breath control practice), meditation and speciﬁc exercises to release tension to relax and reduce stress",
         "type": "retreat",
         "isVisible": true
       },
       {
-        "title": "Hatha Yoga Workshop",
-        "date": "2024-12-08",
-        "time": "2:00 PM - 4:00 PM", 
-        "location": "Online via Zoom",
-        "description": "Deep dive into traditional Hatha yoga techniques, breathing exercises, and alignment principles.",
-        "price": "Contact for pricing",
+        "title": "Hatha Yoga",
+        "date": "Every Saturday",
+        "time": "13:10 PM - 14:00 PM", 
+        "location": "Ongizatea",
+        "description": "Deep dive into Hatha yoga techniques, breathing exercises, and alignment principles.",
         "type": "workshop",
         "isVisible": true
       },
-      {
+       {
         "title": "Corporate Wellness Session",
-        "date": "2024-12-20",
-        "time": "12:00 PM - 1:00 PM",
+        "date": "Weekdays",
+        "time": "Preferred Time", 
         "location": "Your Office",
         "description": "Customized yoga session for your team. Reduce stress and improve workplace wellness.",
         "price": "Contact for pricing",
         "type": "corporate",
         "isVisible": true
-      },
-      {
-        "title": "Yin & Nidra Evening",
-        "date": "2024-11-25",
-        "time": "7:00 PM - 8:30 PM",
-        "location": "Yoga Studio Luxembourg",
-        "description": "Relaxing evening session focusing on deep stretches and guided meditation.",
-        "price": "€25",
-        "type": "workshop",
-        "isVisible": true
-      },
+      }, 
+      
       {
         "title": "Beginner's Yoga Series",
-        "date": "2024-11-20",
-        "time": "6:00 PM - 7:00 PM",
-        "location": "Community Center",
-        "description": "4-week series perfect for those new to yoga practice.",
-        "price": "€120",
+        "date": "Coming Soon",
+        "time": "Coming Soon",
+        "location": "Online",
+        "description": "For all levels",
+        "price": "€15",
         "type": "series",
         "isVisible": false
       }
